@@ -8,6 +8,7 @@ public class CollectionDemo1 {
 		
 		List<String> list = new ArrayList<String>();
 		list.add("Hari");
+		list.add("Heena")
 		list.add("Ravi");
 		list.add("Kavi");
 		Iterator<String> itr=list.iterator();
